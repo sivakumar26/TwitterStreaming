@@ -1,0 +1,11 @@
+{
+  "name": "twitter-streaming",
+  "version": "1.0.0",
+  "description": "Connects to twitter streaming api and stores the tweets in Elasticsearch ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sivakumar",
+  "license": "ISC"
+}
